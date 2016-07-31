@@ -1,0 +1,3 @@
+# ignore output/test files b/c too much memory
+output/
+timestep_files/
